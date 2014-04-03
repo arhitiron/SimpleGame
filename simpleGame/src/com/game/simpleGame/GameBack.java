@@ -29,7 +29,6 @@ public class GameBack implements ApplicationListener {
     private int countCaught = 0;
     private int countMissed = 0;
 
-
     @Override
     public void create() {
         batch = new SpriteBatch();
