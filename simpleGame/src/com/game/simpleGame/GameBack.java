@@ -17,7 +17,7 @@ import com.badlogic.gdx.utils.TimeUtils;
 
 import java.util.Iterator;
 
-public class Game implements ApplicationListener {
+public class GameBack implements ApplicationListener {
 	private SpriteBatch batch;
     private BitmapFont font;
     private Texture dropImage;
